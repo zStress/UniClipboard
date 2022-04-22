@@ -1,0 +1,30 @@
+{
+  "name": "com.sanukin39.uniclipboard",
+  "displayName": "UniClipboard",
+  "author": {
+    "name": "Sanukin39",
+    "url": "https://github.com/sanukin39"
+  },
+  "version": "1.0.2",
+  "unity": "2018.3",
+  "description": "Simple cross platform clipboard plugin for Unity.",
+  "keywords": [
+    "clipboard",
+    "tools",
+    "copy/paste"
+  ],
+  "license": "MIT",
+  "category": "tool",
+  "samples": [
+    {
+      "displayName": "Exapmple Scene ",
+      "description": "",
+      "path": "Samples~/SceneWithButton"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbviktor/UniClipboard.git"
+  },
+  "type": "tool"
+}
