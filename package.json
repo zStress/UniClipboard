@@ -17,14 +17,14 @@
   "category": "tool",
   "samples": [
     {
-      "displayName": "Exapmple Scene ",
+      "displayName": "Exapmple Scene",
       "description": "",
       "path": "Samples~/SceneWithButton"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gbviktor/UniClipboard.git"
+    "url": "git+https://github.com/zStress/UniClipboard.git"
   },
   "type": "tool"
 }
